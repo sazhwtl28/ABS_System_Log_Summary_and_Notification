@@ -100,7 +100,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
       <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;testing git&quot;]" />
-      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="416,113.6" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="testing" />
+      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="416,113.6" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="umyy" />
     </Sequence>
     <Sequence DisplayName="Add Log to File Summary Excel" sap:VirtualizedContainerService.HintSize="449.6,121.6" sap2010:WorkflowViewState.IdRef="Sequence_4">
       <sap:WorkflowViewStateService.ViewState>
